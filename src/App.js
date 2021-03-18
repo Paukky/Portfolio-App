@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 import Navbar from './components/layout/Navbar'
 import ContactKeeper from './components/pages/ContactKeeper'
 import GithubSearcher from './components/pages/GithubSearcher'
