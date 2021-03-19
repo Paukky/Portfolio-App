@@ -28,8 +28,7 @@ const ContactKeeper = () =>  {
                     </Slider> 
 
                     <p className ="text-center text-primary p-2">
-                    Using Github's REST API, I was able to integrate it into this application and being able to call for data. 
-                    This is my first front-end application that taught me the basic of React. It's scalable and easy to use. 
+                    I integrated Github's REST API to make my first front-end application. The scalable and easy to use application taught me the basic of React Framework and Github API's ability to call for data.
                     <br/>
                     You can view this project here
                     <br/>
